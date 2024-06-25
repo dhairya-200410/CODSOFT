@@ -2,7 +2,7 @@
 <br> 
 This repository contains solutions to the tasks completed during my CodSoft internship.
 <br> 
-# Please note: The actual code for the completed tasks is located in separate folders within this repository.
+Please note: The actual code for the completed tasks is located in separate folders within this repository.
 <br>
 Tasks Completed:<br>
 Task 1: Guessing Game<br>
