@@ -1,9 +1,10 @@
 # CODSOFT INTERNSHIP(C++ TASKS)
 <br> 
 This repository contains solutions to the tasks completed during my CodSoft internship.
-**Please note:** The actual code for the completed tasks is located in separate folders within this repository.
+<br> 
+*Please note:* The actual code for the completed tasks is located in separate folders within this repository.
 <br>
-Tasks Completed:
+Tasks Completed:<br>
 Task 1: Guessing Game<br>
 Task 2: Simple calculator<br>
 Task 3: Tic Tac Toe<br>
